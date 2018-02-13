@@ -1,0 +1,15 @@
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\InstaGod_By_MadMax.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\InstaGod_By_MadMax.exe
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\InstaGod_By_MadMax.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.Form1.resources
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.exe
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.AddAccount.resources
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\RandomNameGenerator.dll
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\xNet.dll
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\Newtonsoft.Json.dll
+c:\users\maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxim\documents\visual studio 2015\Projects\InstaGod_By_MadMax\InstaGod_By_MadMax\obj\Debug\InstaGod_By_MadMax.FormJob.resources

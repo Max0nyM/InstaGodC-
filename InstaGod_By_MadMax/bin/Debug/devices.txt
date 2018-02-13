@@ -1,0 +1,4 @@
+OnePlus; ONEPLUS A3010; OnePlus3T; qcom
+LGE/lge; RS988; h1; h1
+HUAWEI; LON-L29; HWLON; hi3660
+samsung; SM-G935F; hero2lte; samsungexynos8890
